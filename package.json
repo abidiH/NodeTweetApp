@@ -1,0 +1,12 @@
+{
+	"name": "NodeTweetApp",
+	"version": "1.0.0",
+	"description": "words cloud built on real time streaming tweets",
+	"dependencies":{
+		"express": "latest",
+		"socket.io":"latest",
+		"ntwitter" :"latest"
+	}
+
+
+}
